@@ -23,6 +23,8 @@ Created by three computer science university students studying in Hungary at ELT
 - Vite.js - bundler
 - Rematch - state management
 
+For more, please visit `./parking-spot-renter-frontend/`
+
 ### Backend
 
 - Java
